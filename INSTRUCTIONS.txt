@@ -1,0 +1,74 @@
+  █████▒▓█████  ██▀███   ███▄    █  ▄▄▄       ███▄    █ ▓█████▄  ▒█████   ▒█████        ▓█████▄ ▓█████ ██▒   █▓
+▓██   ▒ ▓█   ▀ ▓██ ▒ ██▒ ██ ▀█   █ ▒████▄     ██ ▀█   █ ▒██▀ ██▌▒██▒  ██▒▒██▒  ██▒      ▒██▀ ██▌▓█   ▀▓██░   █▒
+▒████ ░ ▒███   ▓██ ░▄█ ▒▓██  ▀█ ██▒▒██  ▀█▄  ▓██  ▀█ ██▒░██   █▌▒██░  ██▒▒██░  ██▒      ░██   █▌▒███   ▓██  █▒░
+░▓█▒  ░ ▒▓█  ▄ ▒██▀▀█▄  ▓██▒  ▐▌██▒░██▄▄▄▄██ ▓██▒  ▐▌██▒░▓█▄   ▌▒██   ██░▒██   ██░      ░▓█▄   ▌▒▓█  ▄  ▒██ █░░
+░▒█░    ░▒████▒░██▓ ▒██▒▒██░   ▓██░ ▓█   ▓██▒▒██░   ▓██░░▒████▓ ░ ████▓▒░░ ████▓▒░      ░▒████▓ ░▒████▒  ▒▀█░  
+ ▒ ░    ░░ ▒░ ░░ ▒▓ ░▒▓░░ ▒░   ▒ ▒  ▒▒   ▓▒█░░ ▒░   ▒ ▒  ▒▒▓  ▒ ░ ▒░▒░▒░ ░ ▒░▒░▒░        ▒▒▓  ▒ ░░ ▒░ ░  ░ ▐░  
+ ░       ░ ░  ░  ░▒ ░ ▒░░ ░░   ░ ▒░  ▒   ▒▒ ░░ ░░   ░ ▒░ ░ ▒  ▒   ░ ▒ ▒░   ░ ▒ ▒░        ░ ▒  ▒  ░ ░  ░  ░ ░░  
+ ░ ░       ░     ░░   ░    ░   ░ ░   ░   ▒      ░   ░ ░  ░ ░  ░ ░ ░ ░ ▒  ░ ░ ░ ▒         ░ ░  ░    ░       ░░  
+           ░  ░   ░              ░       ░  ░         ░    ░        ░ ░      ░ ░           ░       ░  ░     ░  
+                                                         ░                               ░                 ░   
+===================================================================================================
+                                  QUEST COMPLETER - INSTRUCTIONS
+===================================================================================================
+
+ENGLISH
+-------
+
+> 1. Download Discord Canary from: https://canary.discord.com/download
+> 2. Close Discord Canary completely
+> 3. Open this file in Notepad as Administrator:
+     %AppData%\discordcanary\settings.json
+> 4. Add this line inside the JSON:
+     "DANGEROUS_ENABLE_DEVTOOLS_ONLY_ENABLE_IF_YOU_KNOW_WHAT_YOURE_DOING": true
+> 5. Save the file and reopen Discord Canary
+> 6. Go to Discover > Quests and accept any quest you want to complete
+> 7. Press Ctrl + Shift + I to open Developer Tools
+> 8. Go to the Console tab
+> 9. Type: allow pasting
+> 10. Press Enter
+> 11. Open the file code.js and copy ALL the content
+> 12. Paste it into the console
+> 13. Press Enter
+> 14. The quest panel will appear in the bottom right corner
+
+Notes:
+> The panel is draggable (move it by the header)
+> Click Eject to stop everything
+> Click X to close the panel
+> Some quests require manual completion (shown with a lock icon)
+
+===================================================================================================
+
+ESPAÑOL
+-------
+
+> 1. Descarga Discord Canary desde: https://canary.discord.com/download
+> 2. Cierra Discord Canary completamente
+> 3. Abre este archivo en Bloc de Notas como Administrador:
+     %AppData%\discordcanary\settings.json
+> 4. Agrega esta linea dentro del JSON:
+     "DANGEROUS_ENABLE_DEVTOOLS_ONLY_ENABLE_IF_YOU_KNOW_WHAT_YOURE_DOING": true
+> 5. Guarda el archivo y vuelve a abrir Discord Canary
+> 6. Ve a Descubrir > Quests y acepta la quest que quieras completar
+> 7. Presiona Ctrl + Shift + I para abrir las Herramientas de Desarrollador
+> 8. Ve a la pestana Console
+> 9. Escribe: allow pasting
+> 10. Presiona Enter
+> 11. Abre el archivo code.js y copia TODO el contenido
+> 12. Pegalo en la consola
+> 13. Presiona Enter
+> 14. El panel de quests aparecera en la esquina inferior derecha
+
+Notas:
+> El panel se puede mover (arrastralo desde el titulo)
+> Click en Eject para detener todo
+> Click en X para cerrar el panel
+> Algunas quests requieren completarse manualmente (se muestran con candado)
+
+===================================================================================================
+                                  Developed by ꜰᴇʀɴᴀɴᴅᴏᴏ | ᴅᴇᴠ
+
+  LICENSE: Free to use, modify and share. Forks MUST keep original credits.
+  Removing or altering credits is NOT permitted.
+===================================================================================================
